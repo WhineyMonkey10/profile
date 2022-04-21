@@ -1,5 +1,5 @@
 body{
-    background-color: #613e3e;
+    background-color: #356cc0;
 }
 
 body h1{
@@ -27,4 +27,5 @@ body h1{
     border-radius: 10px;
     margin-top: 50px;
     text-align: center;
+    font-size: 20px;
 }
