@@ -66,3 +66,7 @@ body h1{
     text-align: center;
     margin-top: 50px;
 }
+
+.white-hidden {
+    color: white;
+}
